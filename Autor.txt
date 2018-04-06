@@ -1,16 +1,1 @@
-<<<<<<< HEAD
-Autor:Marcin Bahoj³o
-
-
-
-
-
-
-
-
-duppa
-=======
-Autor:Marcin Bahojï¿½o
-
-ok
->>>>>>> a86d6ce7c89221de49f48d46c5e94f1685628c14
+Test
